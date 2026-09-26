@@ -43,5 +43,14 @@
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Pop / CZ Hits"
+  },
+  {
+    "id": "radio_humor",
+    "name": "Radio Humor",
+    "streamUrl": "http://mp3stream4.abradio.cz:8000/humor128.mp3",
+    "logoUrl": "https://radia.cz/static/favicon.ico",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Mluvené slovo"
   }
 ]
