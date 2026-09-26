@@ -20,8 +20,8 @@
   {
     "id": "cro1_cz",
     "name": "ČRo Radiožurnál",
-    "streamUrl": "https://icecast6.play.cz/cro1-128.mp3",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ČRo_Radiožurnál_logo_2022.svg/512px-ČRo_Radiožurnál_logo_2022.svg.png",
+    "streamUrl": "http://icecast8.play.cz/cro1-128.mp3",
+    "logoUrl": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_rozhlas_Radio%C5%BEurn%C3%A1l#/media/Soubor:%C4%8CRo_Radio%C5%BEurn%C3%A1l_Logo_2013.svg",
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo"
