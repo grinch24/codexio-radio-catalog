@@ -21,7 +21,7 @@
     "id": "cro1_cz",
     "name": "ČRo Radiožurnál",
     "streamUrl": "http://icecast8.play.cz/cro1-128.mp3",
-    "logoUrl": "https://commons.wikimedia.org/wiki/File:%C4%8CRo_Radio%C5%BEurn%C3%A1l_Logo_2013.svg#/media/Soubor:%C4%8CRo_Radio%C5%BEurn%C3%A1l_Logo_2013.svg",
+    "logoUrl": "https://www.impuls.cz/assets/images/decorations/impuls-logo.webp?v=1764430950",
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo"
@@ -38,7 +38,7 @@
   {
     "id": "impuls_cz",
     "name": "Rádio Impuls",
-    "streamUrl": "https://impuls.stream.cz/impuls-128.mp3",
+    "streamUrl": "	https://stream.sepia.sk:8000/impuls128.mp3",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Radio_Impuls_logo.svg/512px-Radio_Impuls_logo.svg.png",
     "region": "Česko",
     "bitrate": "128 kbps",
