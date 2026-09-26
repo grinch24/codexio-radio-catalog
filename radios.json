@@ -6,13 +6,13 @@
     "logoUrl": "https://www.expres.sk/wp-content/themes/expres-theme/images/logo_re.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
-    "genre": "Pop / Top 40"
+    "genre": "Music"
   },
   {
     "id": "europa2_sk",
     "name": "Europa 2",
     "streamUrl": "https://stream.bauermedia.sk/europa2.mp3",
-    "logoUrl": "https://www.europa2.sk/wp-content/uploads/2021/03/e2-logo.png",
+    "logoUrl": "https://www.europa2.sk/wp-content/themes/europa/assets/logo.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Dance / CHR"
