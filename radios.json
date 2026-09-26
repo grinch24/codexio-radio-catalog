@@ -1,1 +1,29 @@
-
+[
+  {
+    "id": "expres_sk",
+    "name": "Rádio Expres",
+    "streamUrl": "http://stream.expres.sk/128.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/grinch24/radio-app-data/main/logos/expres.png",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Pop / Hits"
+  },
+  {
+    "id": "europa2_sk",
+    "name": "Europa 2",
+    "streamUrl": "https://icecast.europa2.sk/e2sk128.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/grinch24/radio-app-data/main/logos/europa2.png",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "CHR / Top 40"
+  },
+  {
+    "id": "cro1_cz",
+    "name": "ČRo Radiožurnál",
+    "streamUrl": "http://icecast3.play.cz/cro1-128.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/grinch24/radio-app-data/main/logos/cro1.png",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Spravodajstvo"
+  }
+]
