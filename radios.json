@@ -3,27 +3,45 @@
     "id": "expres_sk",
     "name": "Rádio Expres",
     "streamUrl": "http://stream.expres.sk/128.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/grinch24/radio-app-data/main/logos/expres.png",
+    "logoUrl": "https://www.expres.sk/wp-content/uploads/2019/04/expres-logo.png",
     "region": "Slovensko",
     "bitrate": "128 kbps",
-    "genre": "Pop / Hits"
+    "genre": "Pop / Top 40"
   },
   {
     "id": "europa2_sk",
     "name": "Europa 2",
-    "streamUrl": "https://icecast.europa2.sk/e2sk128.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/grinch24/radio-app-data/main/logos/europa2.png",
+    "streamUrl": "https://stream.bauermedia.sk/europa2.mp3",
+    "logoUrl": "https://www.europa2.sk/wp-content/uploads/2021/03/e2-logo.png",
     "region": "Slovensko",
     "bitrate": "128 kbps",
-    "genre": "CHR / Top 40"
+    "genre": "Dance / CHR"
   },
   {
     "id": "cro1_cz",
     "name": "ČRo Radiožurnál",
-    "streamUrl": "http://icecast3.play.cz/cro1-128.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/grinch24/radio-app-data/main/logos/cro1.png",
+    "streamUrl": "https://icecast6.play.cz/cro1-128.mp3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ČRo_Radiožurnál_logo_2022.svg/512px-ČRo_Radiožurnál_logo_2022.svg.png",
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo"
+  },
+  {
+    "id": "vlna_sk",
+    "name": "Rádio Vlna",
+    "streamUrl": "https://stream.bauermedia.sk/vlna.mp3",
+    "logoUrl": "https://www.radiovlna.sk/wp-content/uploads/2021/03/vlna-logo.png",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Oldies / Hits"
+  },
+  {
+    "id": "impuls_cz",
+    "name": "Rádio Impuls",
+    "streamUrl": "https://impuls.stream.cz/impuls-128.mp3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Radio_Impuls_logo.svg/512px-Radio_Impuls_logo.svg.png",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Pop / CZ Hits"
   }
 ]
