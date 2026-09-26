@@ -3,7 +3,7 @@
     "id": "expres_sk",
     "name": "Rádio Expres",
     "streamUrl": "http://stream.expres.sk/128.mp3",
-    "logoUrl": "https://www.expres.sk/wp-content/uploads/2019/04/expres-logo.png",
+    "logoUrl": "https://www.expres.sk/wp-content/themes/expres-theme/images/logo_re.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Pop / Top 40"
