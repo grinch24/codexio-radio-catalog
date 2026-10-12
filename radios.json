@@ -169,5 +169,14 @@
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Literatúra / Drama"
+  },
+  {
+    "id": "radio_frontinus",
+    "name": "Rádio Frontinus",
+    "streamUrl": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+    "logoUrl": "https://frontinus.sk//img/frontinus_logo_transparent_1.png",
+    "region": "Žilina / Severné Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Pop / Rock / Regionálne spravodajstvo"
   }
 ]
