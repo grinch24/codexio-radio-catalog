@@ -92,7 +92,7 @@
   {
     "id": "radio_lumen",
     "name": "Rádio Lumen",
-    "streamUrl": "https://www.lumen.sk/radio-streaming.html",
+    "streamUrl": "https://audio.lumen.sk/live128.mp3",
     "logoUrl": "https://www.lumen.sk/public/img/logo/lumen.png",
     "region": "Slovensko",
     "bitrate": "128 kbps",
