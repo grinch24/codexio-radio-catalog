@@ -66,7 +66,7 @@
     "id": "radio_melody",
     "name": "Rádio Melody",
     "streamUrl": "https://stream.bauermedia.sk/melody.mp3",
-    "logoUrl": "https://www.radiomelody.sk/wp-content/themes/melody/assets/images/logo.svg",
+    "logoUrl": "https://www.radiomelody.sk/wp-content/themes/melody/assets/logo.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Love Songs / Hity"
