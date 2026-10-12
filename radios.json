@@ -83,7 +83,7 @@
   {
     "id": "best_fm",
     "name": "Best FM",
-    "streamUrl": "https://stream3.bestfm.sk:8000/160.aac",
+    "streamUrl": "https://bestfm.sk/?proradio-popup=1",
     "logoUrl": "https://bestfm.sk/wp-content/uploads/2021/09/logo_transparent.png",
     "region": "Slovensko",
     "bitrate": "128 kbps",
