@@ -63,12 +63,12 @@
     "genre": "Hits & Fun"
   },
   {
-    "id": "radio_jemne",
-    "name": "Rádio Jemné",
-    "streamUrl": "https://stream.bauermedia.sk/jemne.mp3",
-    "logoUrl": "https://www.radiomelody.sk/wp-content/themes/melody/assets/logo.svg",
+    "id": "radio_melody",
+    "name": "Rádio Melody",
+    "streamUrl": "https://stream.bauermedia.sk/melody.mp3",
+    "logoUrl": "https://www.radiomelody.sk/wp-content/themes/melody/assets/images/logo.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
-    "genre": "Adult Contemporary / Hity"
+    "genre": "Love Songs / Hity"
   }
 ]
