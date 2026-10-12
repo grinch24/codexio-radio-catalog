@@ -74,7 +74,7 @@
   {
     "id": "antena_rock",
     "name": "Rádio Anténa Rock",
-    "streamUrl": "https://stream.bauermedia.sk/rock-hi.mp3",
+    "streamUrl": "https://stream.bauermedia.sk/rock-lo.mp3",
     "logoUrl": "https://radiorock.sk/logo.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
