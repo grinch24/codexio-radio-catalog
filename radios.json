@@ -65,7 +65,7 @@
   {
     "id": "radio_melody",
     "name": "Rádio Melody",
-    "streamUrl": "https://stream.bauermedia.sk/melody-hi.mp3",
+    "streamUrl": "https://stream.bauermedia.sk/melody-lo.mp3",
     "logoUrl": "https://www.radiomelody.sk/wp-content/themes/melody/assets/logo.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
