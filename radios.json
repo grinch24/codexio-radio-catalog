@@ -88,5 +88,14 @@
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Oldies / Classical Hits"
-  }
+  },
+  {
+    "id": "radio_lumen",
+    "name": "Rádio Lumen",
+    "streamUrl": "https://stream.lumen.sk/lumen128.mp3",
+    "logoUrl": "https://www.lumen.sk/public/img/logo/lumen.png",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Kresťanské / Hovorené slovo"
+  }  
 ]
