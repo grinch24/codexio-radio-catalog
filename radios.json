@@ -97,5 +97,14 @@
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Kresťanské / Hovorené slovo"
-  }  
+  },
+  {
+    "id": "radio_seven",
+    "name": "Rádio Seven",
+    "streamUrl": "https://play.radio7.sk/128",
+    "logoUrl": "https://radio7.sk/wp-content/uploads/2019/12/R7-logo_biele_new.svg",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Kresťanské / Hovorené slovo"
+  }
 ]
