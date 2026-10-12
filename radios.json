@@ -173,7 +173,7 @@
   {
     "id": "radio_rebeca",
     "name": "Rádio Rebeca",
-    "streamUrl": "https://stream.rebeca.sk/rebeca-128.mp3",
+    "streamUrl": "https://mpc2.mediacp.eu:8200/rebecaweb",
     "logoUrl": "https://rebeca.sk/wp-content/uploads/2018/02/rebeca_4K_bez-vlnky-profil-photo-1.jpg",
     "region": "Turiec / Orava / Liptov",
     "bitrate": "128 kbps",
