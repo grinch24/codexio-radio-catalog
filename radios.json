@@ -124,5 +124,14 @@
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Alternative / Indie"
+  },
+  {
+    "id": "radio_devin",
+    "name": "Rádio Devín",
+    "streamUrl": "https://icecast.stv.livebox.sk/devin_128.mp3",
+    "logoUrl": "https://www.stvr.sk/media/images/radiostations/devin_2026.svg",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Kultúra / Vážna hudba"
   }
 ]
