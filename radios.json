@@ -57,7 +57,7 @@
     "id": "fun_radio",
     "name": "Fun Radio",
     "streamUrl": "https://stream.funradio.sk/fun128.mp3",
-    "logoUrl": "https://www.funradio.sk/img/logo.png",
+    "logoUrl": "https://www.funradio.sk/assets/img/funradio-logo.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Hits & Fun"
