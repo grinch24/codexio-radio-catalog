@@ -133,5 +133,41 @@
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Kultúra / Vážna hudba"
+  },
+  {
+    "id": "radio_patria",
+    "name": "Rádio Patria",
+    "streamUrl": "https://icecast.stv.livebox.sk/patria_128.mp3",
+    "logoUrl": "https://www.stvr.sk/media/images/radiostations/patria_2026.svg",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Národnostné / Menšiny"
+  },
+  {
+    "id": "radio_regina_zapad",
+    "name": "Rádio Regina Západ",
+    "streamUrl": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+    "logoUrl": "https://www.stvr.sk/media/images/radiostations/regina_zapad_2026.svg",
+    "region": "Slovensko / Západ",
+    "bitrate": "128 kbps",
+    "genre": "Publicistika / Regionálne / Folk"
+  },
+  {
+    "id": "radio_junior",
+    "name": "Rádio Junior",
+    "streamUrl": "https://icecast.stv.livebox.sk/junior_128.mp3",
+    "logoUrl": "https://www.stvr.sk/media/images/radiostations/junior_2026.svg",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Deti / Rozprávky"
+  },
+  {
+    "id": "radio_litera",
+    "name": "Rádio Litera",
+    "streamUrl": "https://icecast.stv.livebox.sk/litera_128.mp3",
+    "logoUrl": "https://www.stvr.sk/media/images/radiostations/litera_2026.svg",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Literatúra / Drama"
   }
 ]
