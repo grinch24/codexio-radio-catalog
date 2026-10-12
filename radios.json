@@ -110,7 +110,7 @@
   {
     "id": "radio_slovensko",
     "name": "Rádio Slovensko",
-    "streamUrl": "https://icecast.stvr.sk/radioslovensko-128.mp3",
+    "streamUrl": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
     "logoUrl": "https://api-audio.stvr.sk/storage/radios/61804/01KSJ0BVWDWTZEN5ZB35EP23NS.svg",
     "region": "Slovensko",
     "bitrate": "128 kbps",
