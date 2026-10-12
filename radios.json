@@ -171,12 +171,12 @@
     "genre": "Literatúra / Drama"
   },
   {
-    "id": "radio_frontinus",
-    "name": "Rádio Frontinus",
-    "streamUrl": "http://stream.frontinus.sk:8888/frontinus128.mp3",
-    "logoUrl": "https://frontinus.sk//img/frontinus_logo_transparent_1.png",
-    "region": "Žilina / Severné Slovensko",
+    "id": "radio_rebeca",
+    "name": "Rádio Rebeca",
+    "streamUrl": "https://stream.rebeca.sk/rebeca-128.mp3",
+    "logoUrl": "https://rebeca.sk/wp-content/uploads/2018/02/rebeca_4K_bez-vlnky-profil-photo-1.jpg",
+    "region": "Turiec / Orava / Liptov",
     "bitrate": "128 kbps",
-    "genre": "Pop / Rock / Regionálne spravodajstvo"
+    "genre": "Pop / Regionálne spravodajstvo"
   }
 ]
