@@ -115,5 +115,14 @@
     "region": "Slovensko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo / Publicistika"
+  },
+  {
+    "id": "radio_fm",
+    "name": "Rádio_FM",
+    "streamUrl": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "logoUrl": "https://www.stvr.sk/media/images/radiostations/fm_2026.svg",
+    "region": "Slovensko",
+    "bitrate": "128 kbps",
+    "genre": "Alternative / Indie"
   }
 ]
