@@ -209,7 +209,7 @@
   {
     "id": "radio_blanik",
     "name": "Radio Blaník",
-    "streamUrl": "https://icecast1.play.cz/blanik128.mp3",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
     "logoUrl": "https://radioblanik.cz/design/img/logo.svg",
     "region": "Česko",
     "bitrate": "128 kbps",
