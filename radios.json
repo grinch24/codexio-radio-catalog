@@ -192,7 +192,7 @@
     "id": "cro_plus",
     "name": "ČRo Plus",
     "streamUrl": "https://rozhlas.stream/plus_low.aac",
-    "logoUrl": "https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico",
+    "logoUrl": "https://api.play.cz/static/radio_logo/t200/croplus.png",
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo / Komentáre / Veda"
@@ -205,5 +205,14 @@
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Rock / Classic Rock"
+  },
+  {
+    "id": "radio_blanik",
+    "name": "Radio Blaník",
+    "streamUrl": "https://icecast1.play.cz/blanik128.mp3",
+    "logoUrl": "https://radioblanik.cz/design/img/logo.svg",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Pop / Česká a Slovenská hudba"
   }
 ]
