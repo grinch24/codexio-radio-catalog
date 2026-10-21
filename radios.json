@@ -173,7 +173,7 @@
 {
     "id": "evropa_2",
     "name": "Evropa 2",
-    "streamUrl": "https://icecast.actve.net/evropa2-low.mp3",
+    "streamUrl": "https://ice.actve.net/fm-evropa2-128",
     "logoUrl": "https://www.evropa2.cz/live/assets/logo_evropa.svg",
     "region": "Česko",
     "bitrate": "128 kbps",
