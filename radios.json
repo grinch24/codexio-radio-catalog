@@ -21,7 +21,7 @@
     "id": "cro1_cz",
     "name": "ČRo Radiožurnál",
     "streamUrl": "http://icecast8.play.cz/cro1-128.mp3",
-    "logoUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico",
+    "logoUrl": "https://api.play.cz/static/radio_logo/t200/cro1.png",
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo"
