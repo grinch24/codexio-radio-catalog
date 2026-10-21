@@ -196,5 +196,14 @@
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo / Komentáre / Veda"
+  },
+  {
+    "id": "radio_beat",
+    "name": "Radio Beat",
+    "streamUrl": "https://icecast2.play.cz/radiobeat128.mp3",
+    "logoUrl": "https://www.radiobeat.cz/img/logo.png",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Rock / Classic Rock"
   }
 ]
