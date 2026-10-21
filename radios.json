@@ -182,9 +182,9 @@
   {
     "id": "frekvence_1",
     "name": "Frekvence 1",
-    "streamUrl": "https://icecast.actve.net/frekvence1-low.mp3",
-    "logoUrl": "https://www.frekvence1.cz/wp-content/themes/frekvence1/assets/img/logo.png",
-    "region": "Česká republika",
+    "streamUrl": "https://ice.actve.net/fm-frekvence1-128",
+    "logoUrl": "https://www.frekvence1.cz/live/assets/logo_frekvence.svg",
+    "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Pop / Publicistika / Zábava"
   },
@@ -193,7 +193,7 @@
     "name": "ČRo Plus",
     "streamUrl": "https://icecast.rozhlas.cz/croplus-128.mp3",
     "logoUrl": "https://plus.rozhlas.cz/sites/all/themes/custom/cro_theme/logo.png",
-    "region": "Česká republika",
+    "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Spravodajstvo / Komentáre / Veda"
   }
