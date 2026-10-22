@@ -214,5 +214,41 @@
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Pop / Česká a Slovenská hudba"
+  },
+  {
+    "id": "cro_dvojka",
+    "name": "ČRo Dvojka",
+    "streamUrl": "https://rozhlas.stream/dvojka_mp3_128.mp3",
+    "logoUrl": "https://api.play.cz/static/radio_logo/cro2.png",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Pop / Evergreeny / Hovorené slovo"
+  },
+  {
+    "id": "radio_kiss",
+    "name": "Radio Kiss",
+    "streamUrl": "https://icecast1.play.cz/kiss128.mp3",
+    "logoUrl": "https://radia.cz/media/images/0001/01/026857c07500bd293cb78434dc7e42bb5cba5afa.svg",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Dance / Pop / 90s"
+  },
+  {
+    "id": "country_radio",
+    "name": "Country Radio",
+    "streamUrl": "https://icecast4.play.cz/country128.mp3",
+    "logoUrl": "https://radia.cz/media/images/0001/01/c4eb96ee38c19559e47d4b1114366b40e48f5b52.svg",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Country / Folk / Trampská hudba"
+  },
+  {
+    "id": "radio_krokodyl",
+    "name": "Rádio Krokodýl",
+    "streamUrl": "https://icecast4.play.cz/krokodyl128.mp3",
+    "logoUrl": "https://www.krokodyl.cz/www/frontend/images/logo.png",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Pop / Top 40 / Regionálne"
   }
 ]
