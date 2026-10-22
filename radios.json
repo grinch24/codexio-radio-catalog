@@ -250,5 +250,41 @@
     "region": "Česko",
     "bitrate": "128 kbps",
     "genre": "Pop / Top 40 / Regionálne"
+  },
+  {
+    "id": "rock_radio",
+    "name": "Rock Radio",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+    "logoUrl": "https://radia.cz/media/images/0001/01/566f1a3dbaa02da8bfb97b20577e4ba99f04cb68.svg",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Rock / Hard Rock"
+  },
+  {
+    "id": "cro_vltava",
+    "name": "ČRo Vltava",
+    "streamUrl": "https://rozhlas.stream/vltava_mp3_128.mp3",
+    "logoUrl": "https://radia.cz/media/images/0001/01/8724bf1d1fb16b63ab689b8c9e1da0efd4290f26.svg",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Klasická hudba / Jazz / Kultúra"
+  },
+  {
+    "id": "hitradio_orion",
+    "name": "Hitrádio Orion",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_ORION_128.mp3",
+    "logoUrl": "https://radia.cz/media/images/0001/01/4b2debd59306309cd38e1b540658e8782e0f57f3.svg",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Pop / Top 40"
+  },
+  {
+    "id": "dance_radio",
+    "name": "Dance Radio",
+    "streamUrl": "https://ice.actve.net/dance-radio128.mp3",
+    "logoUrl": "https://www.play.cz/wp-content/uploads/2013/05/danceradio.jpg",
+    "region": "Česko",
+    "bitrate": "128 kbps",
+    "genre": "Dance / Electronic / House"
   }
 ]
