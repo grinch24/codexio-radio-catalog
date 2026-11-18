@@ -29,7 +29,7 @@
   {
     "id": "vlna_sk",
     "name": "Rádio Vlna",
-    "streamUrl": "http://stream.radiovlna.sk/vlna-hi.mp3",
+    "streamUrl": "https://stream.radiovlna.sk/vlna-hi.mp3",
     "logoUrl": "https://radiovlna.sk/assets/vlna/vlna-logo.png",
     "region": "Slovensko",
     "bitrate": "128 kbps",
