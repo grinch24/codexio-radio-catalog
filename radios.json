@@ -47,7 +47,7 @@
   {
     "id": "radio_humor",
     "name": "Rádio Humor",
-    "streamUrl": "http://mp3stream4.abradio.cz:8000/humor128.mp3",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR_128.mp3",
     "logoUrl": "https://radia.cz/static/favicon.ico",
     "region": "Česko",
     "bitrate": "128 kbps",
